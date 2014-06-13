@@ -1,0 +1,16 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="1.JPG">1.JPG</file>
+        <file alias="2.JPG">2.JPG</file>
+        <file alias="3.JPG">3.JPG</file>
+        <file>4.jpg</file>
+        <file>5.jpg</file>
+        <file>6.jpg</file>
+        <file>7.jpg</file>
+        <file>8.jpg</file>
+        <file>wait.jpg</file>
+        <file>시작.png</file>
+        <file>수동.png</file>
+        <file>새로고침.png</file>
+    </qresource>
+</RCC>
